@@ -1,6 +1,7 @@
 # DataGridSortingAndFilterWPF
 
-Simple fast maded example of work with the DataGrid
+Simple fast maded example of work with the DataGrid.
+Data grid sorting and filter.
 
 ## Program look
 
